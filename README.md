@@ -18,4 +18,5 @@ Ji leidžia įvesti pajamas / išlaidas, jas kategorizuoti, vizualizuoti statist
 # Diegimas
 
 git clone https://github.com/vzgts/finansu-sekiklis.git
+
 cd finansu-sekiklis
