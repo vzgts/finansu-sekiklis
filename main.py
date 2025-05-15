@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk, messagebox, simpledialog
+from tkinter import ttk, messagebox
 from datetime import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -17,7 +17,7 @@ class Transaction(Base):
     date = Column(Date)
     amount = Column(Float)
     category = Column(String)
-    transaction_type = Column(String)  # 'income' arba 'expense'
+    transaction_type = Column(String)
     description = Column(String)
 
 
@@ -25,7 +25,7 @@ class Category(Base):
     __tablename__ = 'categories'
     id = Column(Integer, primary_key=True)
     name = Column(String)
-    category_type = Column(String)  # 'income' arba 'expense'
+    category_type = Column(String)
 
 
 class FinanceTracker:
