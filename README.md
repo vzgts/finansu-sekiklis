@@ -1,7 +1,7 @@
 # Finansų sekiklis
 
-Tai asmeninių finansų sekimo aplikacija, sukurta naudojant **Python** ir **Tkinter**.
-Ji leidžia įvesti pajamas / išlaidas, jas kategorizuoti, vizualizuoti statistiką ir stebėti savo balansą.
+Tai asmeninių finansų sekimo aplikacija, sukurta naudojant Python ir Tkinter (grafinį atvaizdavimą).
+Ji leidžia įvesti pajamas/išlaidas, jas kategorizuoti, vizualizuoti statistiką ir stebėti savo balansą.
 
 ---
 
@@ -10,8 +10,8 @@ Ji leidžia įvesti pajamas / išlaidas, jas kategorizuoti, vizualizuoti statist
 - Python 3.x
 - Tkinter (GUI)
 - SQLAlchemy (duomenų bazė)
-- pandas (duomenų analizė)
-- matplotlib (diagramos)
+- Pandas (duomenų analizė)
+- Matplotlib (diagramos)
 
 ---
 
