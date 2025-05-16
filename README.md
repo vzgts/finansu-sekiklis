@@ -17,7 +17,7 @@ Ji leidžia įvesti pajamas/išlaidas, jas kategorizuoti, vizualizuoti statistik
 
 # Diegimas
 
-Sukuria kopija iš github:
+Sukurti kopiją iš github:
 
 git clone https://github.com/vzgts/finansu-sekiklis.git
 
