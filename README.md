@@ -18,13 +18,17 @@ Ji leidžia įvesti pajamas/išlaidas, jas kategorizuoti, vizualizuoti statistik
 # Diegimas
 
 Sukuria kopija iš github:
+
 git clone https://github.com/vzgts/finansu-sekiklis.git
 
 Pakeičiama direktorija:
+
 cd finansu-sekiklis
 
 Sukuriama virtuali aplinka:
+
 python -m venv venv
 
 Įrašomos reikalingos bibliotekos programai paleisti:
+
 pip install -r requirements.txt
