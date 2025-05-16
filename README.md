@@ -19,4 +19,6 @@ Ji leidžia įvesti pajamas / išlaidas, jas kategorizuoti, vizualizuoti statist
 
 git clone https://github.com/vzgts/finansu-sekiklis.git
 
+cd finansu-sekiklis
+
 pip install -r requirements.txt
