@@ -19,11 +19,11 @@ Ji leidžia įvesti pajamas/išlaidas, jas kategorizuoti, vizualizuoti statistik
 
 Sukurti kopiją iš github:
 
-git clone https://github.com/vzgts/finansu-sekiklis.git
+git clone https://github.com/vzgts/finansu_sekiklis.git
 
 Pakeičiama direktorija:
 
-cd finansu-sekiklis
+cd finansu_sekiklis
 
 Sukuriama virtuali aplinka:
 
